@@ -2,7 +2,12 @@
 ## Title: |cffff6000Hide Target Buffs|r
 ## Notes: Simple Addon to hide a target and focus buffs/debuffs
 ## Author: Aurs
-## Version: 1.0
+## Category: Aurs UI
+## Version: @project-version@
 ## IconTexture: Interface\AddOns\HideTargetBuffs\Media\icon.png
+
+## X-Curse-Project-ID: 1704131
+
+# Main Files
 
 Core.lua

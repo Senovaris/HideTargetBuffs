@@ -1,0 +1,8 @@
+changelog-title: Changelog
+changelog-file: CHANGELOG.md
+
+ignore:
+- .github
+- .gitignore
+- CHANGELOG.md
+
