@@ -1,0 +1,8 @@
+## Interface: 120100
+## Title: |cffff6000Hide Target Buffs|r
+## Notes: Simple Addon to hide a target and focus buffs/debuffs
+## Author: Aurs
+## Version: 1.0
+## IconTexture: Interface\AddOns\HideTargetBuffs\Media\icon.png
+
+Core.lua
